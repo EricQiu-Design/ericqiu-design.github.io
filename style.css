@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Debatiment_Normal';
+    src: url('./fonts/Debatiment_Normal.ttf') format('truetype');
+}
+
+body {
+    background: black;
+    color: white;
+    font-family: 'Debatiment_Normal', sans-serif;
+    text-align: center;
+}
+
+.body1 {
+    font-size: 60px;
+    letter-spacing: 0px;
+    margin-top: 20px;
+}
+
+.body2 {
+    font-size: 150px;
+    letter-spacing: 20px;
+    margin-top: 30px;
+}
