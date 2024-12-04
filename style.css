@@ -1,3 +1,8 @@
+.button-container {
+    margin-top: 50px;
+    text-align: center;
+}
+
 @font-face {
     font-family: 'Debatiment_Normal';
     src: url('./fonts/Debatiment_Normal.ttf') format('truetype');
